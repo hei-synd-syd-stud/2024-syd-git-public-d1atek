@@ -1,16 +1,17 @@
-# Answers of <students-firstname> <students-lastname> <github-username>
+# Answers of Bryan Moix d1atek
 
 ## Basics
 ### Task 1
-
+Il y a les dossier et fichier du repo ainsi que le dossier .git pour l'utilisation du git
 ### Task 2
-
+dans le status, il y a la modification du fichier answers et après la création du README, il y a un untracked file vue qu'on ne la pas ajouter. Il y a toujours le commit initial vue qu'il n'y en a pas eu d'autre.
 ### Task 3
-
+Le README est stage et près à être commit
 ### Task 4
-
+Le README est noté comme modifié
 ### Task 5
-
+Les characters au début représente le hash de l'identifiant, HEAD est l'endroit où il y a l’arborescence Git Repo où le prochain commit doit être effectué et main est le nom de la branche.
+Après les paranthèses il y a le message du commit.
 ### Task 6
 
 ## Gitgraph
