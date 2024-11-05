@@ -13,7 +13,7 @@ Le README est noté comme modifié
 Les characters au début représente le hash de l'identifiant, HEAD est l'endroit où il y a l’arborescence Git Repo où le prochain commit doit être effectué et main est le nom de la branche.
 Après les paranthèses il y a le message du commit.
 ### Task 6
-
+Quand on revient à l'initial commit, le dossier est dans le même état que quand on la clone. Une fois revune au main, on retrouve le dernière état commit.
 ## Gitgraph
 
 ### Task 7
