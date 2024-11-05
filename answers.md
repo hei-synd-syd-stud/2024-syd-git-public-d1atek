@@ -15,7 +15,16 @@ Après les paranthèses il y a le message du commit.
 ### Task 6
 Quand on revient à l'initial commit, le dossier est dans le même état que quand on la clone. Une fois revune au main, on retrouve le dernière état commit.
 ## Gitgraph
-
+1. branch
+2. identification hash
+3. commit message
+4. author info
+5. version
+6. last commit
+7. commit and merge branch
+8. last commit in main branch
+9. create branch
+10. initial commit
 ### Task 7
 
 ![Gitgraph](img/gitgraph.svg)
